@@ -6,3 +6,9 @@ ENV/
 
 db.sqlite3
 
+*.pyc
+*~
+__pycache__
+/static
+.DS_Store
+
